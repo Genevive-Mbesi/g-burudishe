@@ -44,42 +44,37 @@ MySQL
 ## Installation
 Clone the repository:
 
-bash
-
+#
 Copy code
 
 git clone https://github.com/Genevive-Mbesi/g-burudishe.git
 
 #### Navigate to the project directory:
-
-bash
-
+#
 Copy code
 
 cd g-burudishe
 
 #### Install dependencies:
-bash
-
+#
 Copy code
 
 npm install  # Install Node.js dependencies
 
-bash
+#
 Copy code
+
 pip install -r requirements.txt  # Install Python dependencies
 
 #### Set up the database:
-bash
-
+#
 Copy code
 
 python app.py migrate
 
 
 #### Start the development server:
-bash
-
+#
 Copy code
 
 python app.py runserver
