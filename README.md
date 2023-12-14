@@ -42,33 +42,20 @@ Django
 MySQL
 
 ## Installation
-Clone the repository:
-
-#
-Copy code
-
-git clone https://github.com/Genevive-Mbesi/g-burudishe.git
+### Clone the repository:
+Copy code: git clone https://github.com/Genevive-Mbesi/g-burudishe.git
 
 #### Navigate to the project directory:
-#
-Copy code
-
-cd g-burudishe
+Copy code: cd g-burudishe
 
 #### Install dependencies:
-#
-Copy code: npm install  # Install Node.js dependencies
-
-#
-Copy code: pip install -r requirements.txt  # Install Python dependencies
+Copy code: npm install    # Install Node.js dependencies
+Copy code: pip install -r requirements.txt    # Install Python dependencies
 
 #### Set up the database:
-#
 Copy code: python app.py migrate
 
-
 #### Start the development server:
-#
 Copy code :  app.py runserver
 
 
