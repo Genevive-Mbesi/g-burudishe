@@ -81,7 +81,9 @@ This project is licensed under the MIT License.
 For any inquiries or feedback, feel free to contact the project owner:
 
 Name: Genevive Mbesi
+
 Email: genmbesi@gmail.com
+
 Enjoy discovering your perfect chill spot with g~burudishe! 🌴✨
 
 
