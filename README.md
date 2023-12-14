@@ -26,14 +26,17 @@ The application is built with a responsive design using HTML, Tailwind CSS, Node
 ## Tech Stack
 ### Frontend:
 HTML
+
 Tailwind CSS
+
 Node.js
+
 React
 
 ### Backend:
 Python
+
 Django
-Database:
 
 ### Database Management:
 MySQL
