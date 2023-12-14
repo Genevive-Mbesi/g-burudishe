@@ -50,6 +50,7 @@ Copy code: cd g-burudishe
 
 #### Install dependencies:
 Copy code: npm install    # Install Node.js dependencies
+
 Copy code: pip install -r requirements.txt    # Install Python dependencies
 
 #### Set up the database:
