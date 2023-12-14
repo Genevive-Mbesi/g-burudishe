@@ -57,32 +57,24 @@ cd g-burudishe
 
 #### Install dependencies:
 #
-Copy code
-
-npm install  # Install Node.js dependencies
+Copy code: npm install  # Install Node.js dependencies
 
 #
-Copy code
-
-pip install -r requirements.txt  # Install Python dependencies
+Copy code: pip install -r requirements.txt  # Install Python dependencies
 
 #### Set up the database:
 #
-Copy code
-
-python app.py migrate
+Copy code: python app.py migrate
 
 
 #### Start the development server:
 #
-Copy code
-
-python app.py runserver
+Copy code :  app.py runserver
 
 
 ### Contributing
 
-Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, please submit a pull request.
+Contributions are welcome! Please submit a pull request if you have any suggestions, enhancements, or bug fixes.
 
 ### License
 
